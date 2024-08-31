@@ -1,6 +1,5 @@
 # Pizza_Sales_Analysis
-Overview
-The Pizza Sales Analysis project aimed at analyzing sales data of a pizza business into actionable insights related to sales performance, Trend Analysis, customer preference. The project involves steps like importing the data, analyzing it using SQL queries, visualizing in Power BI, and creating a comprehensive dashboard.
+Overview: The Pizza Sales Analysis project aimed at analyzing sales data of a pizza business into actionable insights related to sales performance, Trend Analysis, customer preference. The project involves steps like importing the data, analyzing it using SQL queries, visualizing in Power BI, and creating a comprehensive dashboard.
 Utilizing SQL, various queries were written to extract meaningful insights from the data.
 Sales Performance: Aggregate sales figures to determine total sales by product, time period, and customer demographics.
 Customer Segmentation: Identify customer segments based on purchasing behavior, frequency, and average order value.
